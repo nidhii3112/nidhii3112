@@ -37,7 +37,7 @@
 - 📫 How to reach me: **makwananidhi3112@gmail.com** | [![Linkedin Badge](https://img.shields.io/badge/-RajBhatia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-makwana-8a093a212/)
 
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1sh4FE0PP9z5kZCFlFTvf0BlWVaW94wRn/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](#)
 
 - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles
 
