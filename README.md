@@ -34,7 +34,7 @@
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](#)
 
-- 📫 How to reach me: **makwananidhi3112@gmail.com** | [![Linkedin Badge](https://img.shields.io/badge/-RajBhatia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-makwana-8a093a212/)
+- 📫 How to reach me: **makwananidhi3112@gmail.com** | [![Linkedin Badge](https://img.shields.io/badge/-Nidhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-makwana-8a093a212/)
 
 
 - 📄 Know about my experiences [**Resume**](#)
